@@ -2,6 +2,8 @@
 Perros o gatos 
 hasta 3 cliente
 Preguntar e informar
+En la Parte #2 se agrega pedir el tiempo 
+de paseo qu epuede ser de 30 a 60 minutos.
 */
 
 const CANT_MAX_MASCOTAS = 3;
